@@ -4,7 +4,7 @@
 
 ## Installation
 
-Needs Python, [Just]([url](https://github.com/casey/just)) and Imagemagick. 
+Needs Python, [Just]([url](https://github.com/casey/just)) and Imagemagick. For local preview, Nginx must be installed as well.  
 
 ```bash
 python -m venv .venv
